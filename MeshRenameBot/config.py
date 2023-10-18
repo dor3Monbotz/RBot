@@ -7,7 +7,7 @@ except ImportError:
         DATABASE_URL = [str, "mongodb+srv://Nano12:Nano12@cluster0.pz7kgyi.mongodb.net/?retryWrites=true&w=majority"]
         API_HASH = [str, "04aeab3df8b9332d208837938c7ce29b"]
         API_ID = [int, 20959453]
-        BOT_TOKEN = [str, "bot:6295293651:AAGyileBj3sDxxThMPpyIbq4qVRLbLyqP0Y"]
+        BOT_TOKEN = [str, "6295293651:AAGyileBj3sDxxThMPpyIbq4qVRLbLyqP0Y"]
         COMPLETED_STR = [str, "▰"]
         REMAINING_STR = [str, "▱"]
         MAX_QUEUE_SIZE = [int, 5]
